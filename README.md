@@ -1,4 +1,4 @@
-# Time-Series-Analysis-using-Twitter
+# Time Series Analysis using Twitter
 The objective of this study is to find the right time series model to make predictions about the future customer sentiment in Twitter network of AT&T. 
 
 #### About the Data
