@@ -58,6 +58,8 @@ It is said that lesser the value for BIC and AIC, better the model. So first we 
 
 **As we observe, BIC for apArch with armaOrder(0,1) is least and I would choose this specification for predicting the future values over all the other specifications.**
 
+Any suggestions or comments are welcome at anshusingh7091994@gmail.com.
+
 
 
 
